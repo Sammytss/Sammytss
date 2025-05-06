@@ -1,8 +1,8 @@
-## Oi, meu nome é Samuel 👋
+## Oi, meu nome é Samuel 👋🏽
 
-**Instrutor III de Tecnologia da Informação no SENAI**
+📚 **Instrutor III de Tecnologia da Informação no SENAI**
 
-**Analista de sistemas pela Universidade Norte do Paraná**
+👨🏽‍🎓 **Analista de sistemas pela Universidade Norte do Paraná**
 
 ---
 

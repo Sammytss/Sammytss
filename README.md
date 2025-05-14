@@ -2,7 +2,7 @@
 
 📚 **Instrutor III de Tecnologia da Informação no SENAI**
 
-👨🏽‍🎓 **Analista de sistemas pela Universidade Norte do Paraná**
+👨🏽‍🎓 **Analista de Sistemas pela Universidade Norte do Paraná**
 
 👨🏽‍💻 **Desenvolvedor Full-Stack**
 

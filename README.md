@@ -4,9 +4,12 @@
 
 👨🏽‍🎓 **Analista de Sistemas pela Universidade Norte do Paraná**
 
-👨🏽‍💻 **Desenvolvedor Full-Stack** <br>
-<a class="protfolio-link" href="https://sammytss.github.io/Portfolio/" >
-🌐 **Meu Portfolio** </a>
+👨🏽‍💻 **Desenvolvedor Full-Stack**
+
+
+<a class="protfolio-link" href="https://sammytss.github.io/Portfolio/">
+🌐 Meu Portfolio
+</a>
 
 ---
 <style>

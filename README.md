@@ -7,16 +7,12 @@
 👨🏽‍💻 **Desenvolvedor Full-Stack**
 
 
-<a class="protfolio-link" href="https://sammytss.github.io/Portfolio/">
-🌐 Meu Portfolio
+<a class="protfolio-link" href="https://sammytss.github.io/Portfolio/" style="text-decoration: none">
+🌐 <strong>Meu Portfólio</strong>
 </a>
 
 ---
-<style>
-  .protfolio-link a{
-  text-decoration-line: none
-  }
-</style>
+
 ## 🛠️ Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
